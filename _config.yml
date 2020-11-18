@@ -1,10 +1,10 @@
 # Profile information
-name: Pratice
-title: Pratice - Tenha uma vida mais saudavel
+name: Practice
+title: Practice - Tenha uma vida mais saudavel
 description: > # this means to ignore newlines until "baseurl:"
   Site construido para a materia de encontrabilidade na Fatec Taquaritinga.
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
+baseurl: "/practice" # the subpath of your site, e.g. /blog
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
